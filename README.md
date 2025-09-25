@@ -1,2 +1,3 @@
 # apna-college-demo
-This is my 1st repo on GitHub.
+This is my 1st Git repository
+
